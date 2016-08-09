@@ -6,7 +6,7 @@ For more information, see http://andreasviklund.com/templates/the-grid/
 *{margin:0; padding:0;}
 
 /* General styles */
-body {background:#fff url(images/background.jpg) top center no-repeat; color:#303030; font-family:Josefin Sans, sans-serif; font-size:84%; line-height:1.4em;}
+body {background:#fff url(images/background.jpg) top center no-repeat; color:#303030; font-family:'Josefin Sans', Helvetica, Arial, sans-serif; font-size:84%; line-height:1.4em;}
 a {color:#2a5a7a; text-decoration:none;}
 a:hover {text-decoration:underline;}
 p,ul,ol,dl {margin:0 0 20px 0;}
@@ -14,8 +14,8 @@ h1 {color:#888; font-size:3.2em;}
 h1 a {color:#2a5a7a; text-transform:none;}
 h2 {font-size:2.2em; color:#333; margin:0 0 10px; border-bottom:2px solid #eee;}
 h3 {font-size:1.6em; margin:0 0 10px 0; border-bottom:2px solid #eee;}
-/* h1,h2,h3 {font-weight:400; line-height:1em; font-family:Georgia, serif;} */
-h1,h2,h3 {font-weight:400; line-height:1em; font-family:Josefin Sans, sans-serif;} 
+/*h1,h2,h3 {font-weight:400; line-height:1em; font-family:Georgia, serif;} */
+h1,h2,h3 {font-weight:400; line-height:1em; font-family:'Josefin Sans', Helvetica, Arial, sans-serif;} 
 
 /* Main container */
 #width960 {margin:20px auto; width:960px;}
@@ -45,5 +45,5 @@ h1,h2,h3 {font-weight:400; line-height:1em; font-family:Josefin Sans, sans-serif
 ul.menu {list-style:none; margin:0; padding:10px 0 0; border-top:1px solid #eee;}
 ul.menu li {list-style:none; font-size:1em; margin:0 0 10px; padding:0 0 5px 0; color:#888; border-bottom:1px solid #eee;}
 /* ul.menu li a {font-size:1.4em; font-family:Georgia, serif;} */
-ul.menu li a {font-size:1.4em; font-family:Josefin Sans, sans-serif;}
+ul.menu li a {font-size:1.4em; font-family:'Josefin Sans', Helvetica, Arial, sans-serif;}
 
