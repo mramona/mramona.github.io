@@ -6,7 +6,7 @@ For more information, see http://andreasviklund.com/templates/the-grid/
 *{margin:0; padding:0;}
 
 /* General styles */
-body {background:#fff url(images/background.jpg) top center no-repeat; color:#303030; font-family:Josefin Sans; font:84% Helvetica,Arial,sans-serif; line-height:1.4em;}
+body {background:#fff url(images/background.jpg) top center no-repeat; color:#303030; font-family:Josefin Sans, sans-serif; font-size:84%; line-height:1.4em;}
 a {color:#2a5a7a; text-decoration:none;}
 a:hover {text-decoration:underline;}
 p,ul,ol,dl {margin:0 0 20px 0;}
