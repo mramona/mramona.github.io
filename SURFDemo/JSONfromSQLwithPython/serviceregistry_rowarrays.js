@@ -1,0 +1,1 @@
+[[1, null, "sensing", "temperature", "float", "Celsius", 60, "avg", "True", 300, null, null, 1800, "(0,20,0)", "", "", 18000, "Reliability:100%", "Accuracy:100%"], [2, null, "sensing", "temperature", "float", "Celsius", 60, "avg", "True", 300, null, null, 1800, "(0,20,0)", "", "", 18000, "Reliability:100%", "Accuracy:100%"]]

@@ -1,0 +1,39 @@
+ [*] Waiting for messages. To exit press CTRL+C
+Method: <Basic.Deliver(['consumer_tag=ctag1.f3ce017d06334f93aaf4c813f29e1396', 'delivery_tag=1', 'exchange=', 'redelivered=False', 'routing_key=Service Registry Updates'])>
+Properties: <BasicProperties>
+TransactionId: 1
+Domain: weather
+State: Active
+Direction: Sensing
+PhysicalProcess: Temperature
+DataType: Float
+Unit: Celsius
+SamplingPeriod: 60
+AggregationFunction: avg
+PerNode: 0
+Window: 300
+DataPeriod: 300
+Location_Region: (0,0), (20,0), (20,20), (0,20)
+StartTime: Start time 2016/08/16 12:02:34
+Duration: 1800
+QoS_Parameters: Reliability 100%
+QoI_Parameters: None
+Method: <Basic.Deliver(['consumer_tag=ctag1.f3ce017d06334f93aaf4c813f29e1396', 'delivery_tag=2', 'exchange=', 'redelivered=False', 'routing_key=Service Registry Updates'])>
+Properties: <BasicProperties>
+TransactionId: 1
+Domain: weather
+State: Active
+Direction: Sensing
+PhysicalProcess: Temperature
+DataType: Float
+Unit: Celsius
+SamplingPeriod: 60
+AggregationFunction: avg
+PerNode: 0
+Window: 300
+DataPeriod: 300
+Location_Region: (0,0), (20,0), (20,20), (0,20)
+StartTime: Start time 2016/08/16 12:02:34
+Duration: 1800
+QoS_Parameters: Reliability 100%
+QoI_Parameters: None
